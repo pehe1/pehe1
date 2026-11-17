@@ -58,4 +58,4 @@ I like learning by building, sharing ideas, and working with others. Figuring th
 ## 🌐 Find Me Online
 [**Portfolio · pehe.dev ↗**](https://pehe.dev/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocavalcantebarrense/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:opedroo@pm.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocavalcantebarrense/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pehe@pehe.dev)
